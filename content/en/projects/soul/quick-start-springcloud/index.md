@@ -13,7 +13,7 @@ Please refer to the [setup](../soul-set-up) and launch `soul-admin` and `soul-bo
 
 ```xml
 <!--soul springCloud plugin start-->
-dependency>
+<dependency>
     <groupId>org.dromara</groupId>
     <artifactId>soul-spring-boot-starter-plugin-springcloud</artifactId>
     <version>${project.version}</version>
